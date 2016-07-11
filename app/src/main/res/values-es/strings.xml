@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mediana geométrica</string>
+    <string name="title_activity_main">Principal</string>
+    <string name="open_with_another_app">Abrir mediana con otra app</string>
+    <string name="touch_to_erase">Toca para borrar</string>
+    <string name="we_need_location_permission_to_show_your_location">Necesitamos acceso a tu ubicación para mostrarla en el mapa</string>
+    <string name="spatial_median">Mediana espacial</string>
+</resources>

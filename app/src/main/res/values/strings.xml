@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Geometric Median</string>
     <string name="title_activity_main">Main</string>
+    <string name="open_with_another_app">Open median with another app</string>
+    <string name="touch_to_erase">Touch to erase</string>
+    <string name="we_need_location_permission_to_show_your_location">We need location permission in order to show your location</string>
+    <string name="spatial_median">Spatial median</string>
 </resources>
